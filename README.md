@@ -1,4 +1,4 @@
-<img width="1380" height="752" alt="soar_architecture" src="https://github.com/user-attachments/assets/352a2f34-3a75-4070-9394-cbe6af854cb1" />
+<img width="1380" height="752" alt="soar_architecture" src="https://github.com/user-attachments/assets/a6af42c6-1496-4a22-83a0-d3ca1a49ec0b" />
 
 
 
