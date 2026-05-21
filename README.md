@@ -38,6 +38,8 @@ When a malicious exploitation attempt (such as an automated scanner web fingerpr
 
 ---
 
+## Video: https://www.linkedin.com/posts/gurunanakadhikari_cybersecurity-aws-cloudsecurity-ugcPost-7463055634679377921-zPnm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEtEqhwBtd9Rjbr84IsWwWRE8ExCL1UNzXU
+
 ##  Infrastructure Blueprint
 
 ```text
